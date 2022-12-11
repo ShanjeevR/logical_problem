@@ -1,4 +1,4 @@
-a=10
+a=55
 sum=0
 for i in range(2,a//2):
     if a%i==0:
